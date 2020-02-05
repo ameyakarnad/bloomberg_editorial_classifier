@@ -14,6 +14,11 @@
 - Sarang Gupta - sg3637@columbia.edu
 - Ujjwal Peshin - up2138@columbia.edu
 
+## Directory Structure
+
+- doc - contains the two intermediate reports and final report for the project
+- src - contains the source code for the project 
+
 ## Project details
 
 ### Abstract
@@ -47,7 +52,3 @@ BERT and XLNET are the best performing models. However, Logistic Regression has
 comparable performance and does not lose out on explainability. Hence, we would recommend
 using Logistic Regression in production.
 
-## Directory 
-
-- doc - contains the two reports for the project
-- src - contains the source code for the project 
